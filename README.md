@@ -36,7 +36,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=quy1099ht&show_icons=true&theme=gotham" alt="quy" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kms-quydinhtran&show_icons=true&theme=gotham" alt="quy" />
 
 ## Hobbies
   
