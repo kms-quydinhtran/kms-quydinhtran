@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/quy-tran-dinh-23604b216/">
-  <img align="left" alt="Quy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Quy's LinkedIN" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=quy1099ht.quy1099ht)
